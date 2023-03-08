@@ -25,6 +25,7 @@ if m.isnumeric():
 
 elif m.isalpha():
     print(m)
-    
+
 else:
     print("Não quero printar")
+
