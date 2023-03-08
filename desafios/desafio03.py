@@ -1,6 +1,6 @@
-número_1 = float(input("Primeiro número: "))
-número_2 = float(input("Segundo número: "))
+num1 = float(input("Primeiro número: "))
+num2 = float(input("Segundo número: "))
 
-soma = número_1 + número_2
+soma = num1 + num2
 
 print(f"A soma é igual a {soma}")
